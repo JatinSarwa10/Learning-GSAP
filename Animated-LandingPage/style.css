@@ -91,8 +91,11 @@ nav button{
     display:flex;
     align-items:center;
     justify-content: space-between;
-    padding:120px 30px;
+    padding: 10px 100px;
 }
 .section1bottom img{
     height:60px;
+}
+.section2 .services{
+    
 }
